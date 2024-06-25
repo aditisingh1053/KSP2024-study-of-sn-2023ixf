@@ -1,0 +1,2 @@
+[console_scripts]
+anc_upload = astrometry_net_client.scripts.anc_upload:main
